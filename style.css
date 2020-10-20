@@ -1,0 +1,115 @@
+/* Navbar */
+.navbar-brand{
+    font-family:Staatliches;
+    font-size: 32px;
+    color: white !important;
+}
+.nav-link{
+    text-transform: uppercase;
+    margin-right: 30px;
+    color: white !important;
+}
+ 
+/*Jumbotron */
+.jumbotron{
+    background-image: url(img/bg-world.png);
+    background-size:cover;
+    size: 1920px;
+    height: 500px;
+    background-position: center;
+ 
+}
+.jumbotron img{
+    width: 200px;
+    margin: auto;
+}
+
+.jumbotron h1{
+    font-family: Staatliches;
+    padding-top: 30px;
+    font-size:  40px;
+    color:#3391cf;
+}
+
+/* Info corona */
+.info-data{
+    margin-top: -90px;
+    margin-bottom: 100px;
+    text-align: center;
+    
+}
+
+.info-data .row .col-lg{
+    padding-top: 20px;
+    color:white;
+
+}
+
+
+
+
+
+
+
+
+/* INDO */
+.navbar-brandindo{
+    font-family:Staatliches;
+    font-size: 32px;
+    color: white !important;
+}
+.nav-linkindo{
+    text-transform: uppercase;
+    margin-right: 30px;
+    color: white !important;
+}
+ 
+.jumbotron-indo img{
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.jumbotron-indo{
+    background-image: url(img/background-peta-indonesia-png-6.png);
+    background-size:cover;
+    size: 1920px;
+    height: 500px;
+    background-position: center;
+ 
+}
+
+.jumbotron-indo h1{
+    font-family: Staatliches;
+    padding-top: 30px;
+    font-size:  40px;
+    color:#252f76;
+}
+
+.info-data-indo{
+    margin-top: -58px;
+    margin-bottom: 100px;
+    text-align: center;
+  
+}
+
+.info-data-indo .row .col-lg{
+    padding-top: 20px;
+    color:white;
+
+}
+
+/* FOOTER */
+.footer-icon{
+    color: white !important;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.footer p{
+    padding-bottom: 15px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+
